@@ -1,0 +1,57 @@
+{
+  "about": {
+    "name": "Leonardo Jose Rodriguez Guerrero",
+    "title": "Desarrollador de aplicaciones Web",
+    "summary": "Soy un desarrollador apasionado y metódico, comprometido con la calidad del código y la innovación tecnológica. Disfruto enfrentando nuevos desafíos y transformando problemas complejos en soluciones digitales eficientes. Mi enfoque combina la lógica técnica con una fuerte dedicación para entregar productos que aporten valor real al usuario final.",
+    "photo": "https://ui-avatars.com/api/?name=Leonardo+Rodriguez&background=10b981&color=fff&size=256"
+  },
+  "projects": [
+    {
+      "title": "Calculadora Plusvalía",
+      "description": "Herramienta web oficial desarrollada para el cálculo de plusvalías municipales. Proyecto implementado para el Ayuntamiento de Santa Cruz de Tenerife.",
+      "link": "#"
+    },
+    {
+      "title": "Trelou",
+      "description": "Aplicación web interactiva para la gestión de proyectos y organización de ideas mediante un sistema de tarjetas visuales (estilo Kanban).",
+      "link": "#"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "icon": "pi pi-cog",
+      "description": "Scripting y lógica de backend eficiente",
+      "level": 90
+    },
+    {
+      "name": "Django",
+      "icon": "pi pi-sitemap",
+      "description": "Desarrollo de aplicaciones web robustas",
+      "level": 85
+    },
+    {
+      "name": "JavaScript",
+      "icon": "pi pi-code",
+      "description": "Interactividad y desarrollo frontend",
+      "level": 80
+    },
+    {
+      "name": "Tailwind & CSS",
+      "icon": "pi pi-palette",
+      "description": "Diseño moderno y maquetación responsiva",
+      "level": 85
+    }
+  ],
+  "experience": [
+    {
+      "company": "Avantic",
+      "role": "Programador",
+      "period": "Mayo 2025 - Junio 2025",
+      "details": "Encargado del mantenimiento evolutivo de software, incluyendo la solución de errores críticos en el framework y la adaptación de aplicaciones existentes a versiones más recientes para mejorar el rendimiento."
+    }
+  ],
+  "contact": {
+    "email": "onardojose444@gmail.com"
+  }
+}

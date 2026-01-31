@@ -2,7 +2,7 @@
 ## Clonar
 
 ```sh
-git clone https//github.com/Leopoldo777x/DOR--diseno.git
+git clone https://github.com/Leopoldo777x/DOR--diseno.git
 ```
 
 ## Iniciar proyecto
